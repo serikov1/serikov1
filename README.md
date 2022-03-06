@@ -1,6 +1,7 @@
 
 ### 👋 Hi, I’m Serikov Vasily
 ### 👀 I’m MIPT student 
+# ✨ DASR IS CHAMPION ✨
 
 
 - 💌 [Telegram](https://t.me/VasilySer)
