@@ -6,6 +6,13 @@
 - 💌 [Telegram](https://t.me/VasilySer)
 - 💬 [VK](https://vk.com/idvasup)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serikov1)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serikov1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serikov1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serikov1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serikov1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serikov1&theme=solarized_dark)
 <!---
 serikov1/serikov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
