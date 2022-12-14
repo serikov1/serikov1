@@ -4,10 +4,10 @@
 <h3 align="center">🚀🥇𝔻𝔸𝕊ℝ 𝕀𝕊 ℂℍ𝔸𝕄ℙ𝕀𝕆ℕ🥇🚀</h3>
 
 <div id="badges" align="center">
-  <a href="https://t.me/idvasup">
+  <a href="https://t.me/savres">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://vk.com/idvasup">
+  <a href="https://vk.com/savres">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
